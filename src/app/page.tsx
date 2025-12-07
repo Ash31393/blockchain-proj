@@ -1,8 +1,10 @@
 import Image from 'next/image';
+import Header from './components/Header';
 
 export default function Home() {
   return (
     <main className="flex flex-col min-h-screen items-center justify-center bg-blue-500">
+      <Header />
       <h1 className="text-4xl font-bold text-white mb-4">Web3 DApp Playground</h1>
       <p className="text-lg text-white mb-2">
         Professional environment: TypeScript, ESLint, Prettier, Husky, SonarCloud, Tailwind CSS

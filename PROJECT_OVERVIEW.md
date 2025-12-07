@@ -35,6 +35,10 @@ This is a modular Web3 DApp playground for learning and experimenting with block
 - Version control with GitHub
 - Ready for team collaboration and open source
 
+- Practice using conventional commit formats (feat, fix, docs, style, refactor, etc.)
+- Use feature branches for new functionality, bug fixes, and experiments
+- Merge branches via pull requests for code review and collaboration
+
 ## Software & Tools To Use
 
 - **VS Code:** Main code editor
@@ -55,6 +59,9 @@ This is a modular Web3 DApp playground for learning and experimenting with block
 - Integrate wallet connection
 - Add blockchain features step by step
 - Design UI in Figma
+
+- Practice making commits with all conventional formats
+- Use different branches for features, fixes, and experiments, then merge via pull requests
 
 ---
 
